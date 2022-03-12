@@ -1,2 +1,3 @@
-# public_datasets
-public datasets for data science and data engineering studies
+# Public Datasets
+
+Public datasets for data science and data engineering.
